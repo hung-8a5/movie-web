@@ -1,0 +1,53 @@
+a {
+  text-decoration: none;
+}
+
+header {
+  background-color: blueviolet;
+  padding-left: 20px;
+  height: 30px;
+  /* hien thi  */
+  display: flex;
+  /* can theo chieu doc */
+  align-items: center;
+  color: white;
+  /* in dam */
+  font-weight: bolder;
+  /* phong chu  */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.nav {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  padding: 15px 20px;
+}
+.thuonf {
+  padding: 15px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.menu ul {
+  font-family: Arial, Helvetica, sans-serif;
+  /* loai bo dau cham truoc cau */
+  list-style-type: none;
+  padding: 15px 20px;
+}
+.mg img {
+  height: auto;
+  width: 70%;
+}
+.be h1 {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 15px 20px;
+}
+.be p {
+  padding: 15px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.be img {
+  height: auto;
+  width: 70%;
+}
